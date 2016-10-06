@@ -7,11 +7,12 @@
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
        
         <property name="hibernate.connection.url">
-            jdbc:postgresql://localhost:5432/testdb
+            jdbc:postgresql://localhost:5433/testdb
         </property>
-        <property name="hibernate.connection.username">gyu</property>
-        <property name="hibernate.connection.password">Ubuntu</property>
+        <property name="hibernate.connection.username">ecc</property>
+        <property name="hibernate.connection.password">ex1stgl0bal</property>
        
         <mapping resource="Employee.hbm.xml"/>
+        <mapping class="simple.core.model.Employee"/>
     </session-factory>
 </hibernate-configuration>

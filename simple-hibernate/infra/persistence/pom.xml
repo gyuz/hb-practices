@@ -10,7 +10,7 @@
   	<artifactId>persistence</artifactId>
   	<packaging>jar</packaging>
 
-  	<name>Crud-Infra-Persistence</name>
+  	<name>Simple-Infra-Persistence</name>
 
     <!--dependencies>
             <dependency>

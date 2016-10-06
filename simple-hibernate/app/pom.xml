@@ -10,7 +10,7 @@
   	<artifactId>app</artifactId>
   	<packaging>jar</packaging>
 
-  	<name>Crud-App</name>
+  	<name>Simple-App</name>
 
 	<dependencies>
 		 <dependency>

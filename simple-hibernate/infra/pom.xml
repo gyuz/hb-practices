@@ -10,7 +10,7 @@
   	<artifactId>crud-infra</artifactId>
   	<packaging>pom</packaging>
 
-  	<name>Crud-Infra</name>
+  	<name>Simple-Infra</name>
     
     <modules>
         <module>persistence</module>
